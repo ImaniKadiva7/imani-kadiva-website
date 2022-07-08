@@ -133,7 +133,7 @@
 .profile-pic
 {
   clip-path: circle();
-  width: 450px;
+  height: 200px;
 }
 
 .description-section
@@ -165,7 +165,7 @@
 {
   color: white;
   font-family: Arial;
-  font-size: 36px;
+  font-size: 18px;
   width: 100%;
 }
 
