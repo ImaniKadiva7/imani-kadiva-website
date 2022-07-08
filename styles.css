@@ -3,7 +3,7 @@
 {
   display: flex;
   flex-direction: row;
-  background-color: rgb(124, 124, 124);
+  /*background-color: rgb(124, 124, 124);*/
   margin-bottom: 20px;
 }
 
@@ -118,7 +118,7 @@
 {
   display: flex;
   flex-direction: row;
-  background-color: rgb(124, 124, 124);
+  /*background-color: rgb(124, 124, 124);*/
   height: 500px;
 }
 
@@ -133,7 +133,7 @@
 .profile-pic
 {
   clip-path: circle();
-  width: 100%;
+  width: 450px;
 }
 
 .description-section
@@ -167,4 +167,9 @@
   font-family: Arial;
   font-size: 36px;
   width: 100%;
+}
+
+body
+{
+  background-color: rgb(124,124,124);
 }
