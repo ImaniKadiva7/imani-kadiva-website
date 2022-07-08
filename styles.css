@@ -173,5 +173,5 @@
 body
 {
   background-color: rgb(124,124,124);
-  height: 150px;
+  min-height: 100vh;
 }
